@@ -1,5 +1,4 @@
 # Robot Arm Kinematics (RAK)
-# A production-quality, dependency-free C++17 library for 6-DOF serial manipulator kinematics. Solves FK via Denavit-Hartenberg transforms and IK via a damped-least-squares numerical Jacobian — all hand-coded with zero external dependencies. Ships as both a static and shared library with a CLI tool, 39 unit tests, a bash IK→FK regression harness, and Doxygen API docs wired into CMake. Built to demonstrate raw C++ engineering ability without relying on ROS as a crutch. A **standalone C++17** forward/inverse kinematics library for a 6-DOF serial manipulator, built entirely without ROS.
 
 ## Features
 
