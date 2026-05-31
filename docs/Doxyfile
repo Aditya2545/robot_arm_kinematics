@@ -1,0 +1,17 @@
+PROJECT_NAME           = "Robot Arm Kinematics"
+PROJECT_NUMBER         = 1.0.0
+PROJECT_BRIEF          = "Standalone 6-DOF FK/IK library — C++17, no ROS"
+OUTPUT_DIRECTORY       = docs
+INPUT                  = include src
+RECURSIVE              = YES
+EXTRACT_ALL            = YES
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO
+HTML_OUTPUT            = html
+QUIET                  = YES
+WARNINGS               = YES
+WARN_IF_UNDOCUMENTED   = YES
+HAVE_DOT               = YES
+CALL_GRAPH             = YES
+CALLER_GRAPH           = YES
+COLLABORATION_GRAPH    = YES
